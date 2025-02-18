@@ -2,7 +2,7 @@
 
 Este projeto foi desenvolvido para a placa **BitDogLab** utilizando o **Raspberry Pi Pico W** com a **Pico SDK**. Ele implementa um sistema que integra um joystick analógico, botões físicos, LEDs RGB e um display OLED SSD1306, utilizando comunicação I2C e controle PWM para os LEDs.
 
-#Link para video de demonstração: 
+## Link para video de demonstração: https://youtu.be/YywET4KeBD4?si=ezjlV6TSY6d0_Ozu
 
 ## Funcionalidades
 
